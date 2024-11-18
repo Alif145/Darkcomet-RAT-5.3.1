@@ -47,10 +47,6 @@ enter command 'wine DarkComet.exe'
 
 ```
     
-![Logo](https://h.top4top.io/p_3226cpjpk1.jpg)
-
-
-
 
 
 
